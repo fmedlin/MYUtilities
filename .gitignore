@@ -1,0 +1,11 @@
+.hg
+.hgignore
+.DS_Store
+build
+Documentation
+Doxyfile
+.svn
+*.pbxuser
+*.perspectivev3
+*.mpkg
+*.framework
